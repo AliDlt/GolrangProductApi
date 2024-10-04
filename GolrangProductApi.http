@@ -1,0 +1,6 @@
+@GolrangProductApi_HostAddress = http://localhost:5247
+
+GET {{GolrangProductApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
